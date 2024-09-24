@@ -1,0 +1,79 @@
+# Prompt 1:
+Q: What are the current offers on mobile phones?
+A: We have a 10% discount on all mobile phones this week! Additionally, select brands are offering up to 20% off.
+
+# Prompt 2:
+Q: Can you suggest some affordable laptops under $500?
+A: Sure! Here are some popular laptops under $500: 1. Dell Inspiron 15 2. Lenovo IdeaPad 3 3. Acer Aspire 5. All are known for their reliability and performance.
+
+# Prompt 3:
+Q: How can I track my order?
+A: To track your order, please visit the 'My Orders' section and click on 'Track Order' next to the item. You can also use the tracking link sent to your email.
+
+# Prompt 4:
+Q: What is your return policy?
+A: Our return policy allows you to return items within 30 days of purchase. Items must be in their original condition with all packaging intact. Certain products may have different return windows.
+
+# Prompt 5:
+Q: Do you offer international shipping?
+A: Yes, we offer international shipping to select countries. Shipping fees and delivery times vary depending on the destination.
+
+# Prompt 6:
+Q: Can I change my delivery address after placing the order?
+A: You can change the delivery address within 2 hours of placing the order. After that, it may not be possible as the order might already be in process.
+
+# Prompt 7:
+Q: What payment methods do you accept?
+A: We accept various payment methods, including credit/debit cards, PayPal, Apple Pay, and Google Pay. You can also opt for cash on delivery (COD) in select regions.
+
+# Prompt 8:
+Q: Is there a warranty on the products?
+A: Yes, most products come with a manufacturer's warranty. You can check the product page for specific warranty details.
+
+# Prompt 9:
+Q: Can I cancel my order?
+A: You can cancel your order within 2 hours of placing it. After that, the cancellation option might be unavailable if the order has been processed.
+
+# Prompt 10:
+Q: How long will it take for my order to arrive?
+A: Delivery times vary based on your location and the product, but typically, orders are delivered within 3-7 business days.
+
+# Prompt 11:
+Q: Do you offer gift wrapping?
+A: Yes, we offer gift wrapping for a small additional fee. You can select the option at checkout.
+
+# Prompt 12:
+Q: Are there any seasonal discounts coming up?
+A: Yes! Our upcoming seasonal sale will offer discounts of up to 50% across various categories. Stay tuned for more details.
+
+# Prompt 13:
+Q: What are the best-selling products this month?
+A: This month's best-sellers include the latest smartphones, smartwatches, and home appliances like the Dyson vacuum and Philips air fryer.
+
+# Prompt 14:
+Q: How do I apply a promo code?
+A: You can apply a promo code at checkout. Simply enter the code in the "Promo Code" field, and the discount will be applied to your order.
+
+# Prompt 15:
+Q: Are the products sold on your platform genuine?
+A: Yes, all products sold on our platform are 100% genuine and sourced from trusted sellers and brands.
+
+# Prompt 16:
+Q: Do you have a customer loyalty program?
+A: Yes! Our loyalty program offers exclusive rewards, discounts, and early access to sales for our frequent shoppers. You can sign up on our website.
+
+# Prompt 17:
+Q: What should I do if I receive a damaged product?
+A: We apologize for the inconvenience! Please contact our customer service within 48 hours of receiving the product, and we'll arrange for a replacement or refund.
+
+# Prompt 18:
+Q: Can I schedule the delivery time for my order?
+A: We currently don't offer scheduling options for standard deliveries. However, if you're opting for express shipping, we do provide delivery time slots in some areas.
+
+# Prompt 19:
+Q: How can I contact customer support?
+A: You can reach our customer support via email, live chat on our website, or by calling our toll-free number at 1-800-123-4567.
+
+# Prompt 20:
+Q: What security measures do you take to protect my payment information?
+A: We use secure payment gateways and SSL encryption to ensure that your payment information is always protected.
