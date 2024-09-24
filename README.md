@@ -1,4 +1,4 @@
-# ecoommerce_assistant
+# ecommerce_assistant
 **Ecommerce Assistant**
 Ecommerce Assistant is a chatbot designed to assist users with ecommerce-related inquiries. By integrating data about products, orders, and user preferences into a large language model (LLM), this chatbot provides personalized shopping assistance, order tracking, and recommendations to enhance the online shopping experience.
 
